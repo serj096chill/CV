@@ -30,7 +30,7 @@ hr {
   width: 5%;
   clear: left;
   clear: right;
-  border: 0;
+  border: none;
   border-top-width: 5px;
   border-top-style: dotted;
   border-color: #11999E;
@@ -50,7 +50,7 @@ p {
 	display:inline-block;
 	cursor:pointer;
 	color:#14396a;
-	font-family:Arial;
+	font-family:'Montserrat', sans-serif;
 	font-size:15px;
 	font-weight:bold;
 	padding:6px 24px;
