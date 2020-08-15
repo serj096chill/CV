@@ -26,14 +26,28 @@ a {
   color: #11999E;
 }
 
+hr {
+  width: 5%;
+  clear: left;
+  clear: right;
+  border: 0;
+  border-top-width: 5px;
+  border-top-style: dotted;
+  border-color: #11999E;
+}
+
+.serj-pic {
+  margin-top: 5%;
+}
+
 .skills1 {
-  width: 25%;
+  width: 20%;
   float: left;
   margin-right: 30px;
 }
 
 .skills2 {
-  width: 25%;
+  width: 20%;
   float: right;
   margin-left: 30px;
 }
@@ -42,7 +56,6 @@ a {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
 }
 
 .pro1 {
@@ -54,14 +67,10 @@ a {
 }
 
 .top-container {
-  background-color: #3282b8;
+  background-color: #EAF6F6;
   position: relative;
   padding-top: 100px;
 }
-
-.middle-container {}
-
-.bottom-container {}
 
 .bottom-cloud {
   position: absolute;
