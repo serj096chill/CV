@@ -26,6 +26,23 @@ a {
   color: #11999E;
 }
 
+.skills1 {
+  width: 25%;
+  float: left;
+}
+
+.skills2 {
+  width: 25%;
+  float: left;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
 .pro1 {
   font-weight: normal;
 }
